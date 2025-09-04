@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.material-symbols-outlined {
+  font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .material-symbols-outlined {
+    font-size: 30px;
+  }
+}

@@ -2,6 +2,8 @@
 
 A responsive clone of the Twitter (X) home page built using Tailwind CSS. This project demonstrates a modern social media layout with sidebar navigation, post feed, trending topics, and user suggestions.
 
+🔗 **Live Demo:** https://x-clone-tailwind.netlify.app/
+
 ## Features
 
 - **Responsive Design:** Adapts for desktop and mobile screens.
